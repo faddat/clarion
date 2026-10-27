@@ -5,7 +5,7 @@
     "version": "1.0.0",
     "dependencies": {
         "@clarionos/bios": "^0.1.0",
-        "csv-parse": "^4.15.3",
+        "csv-parse": "^7.0.2",
         "ipfs-unixfs-importer": "^7.0.1",
         "ipld": "^0.29.0",
         "ipld-in-memory": "^8.0.0",
@@ -25,7 +25,7 @@
         "autoprefixer": "^9",
         "copy-webpack-plugin": "^6.3.2",
         "cross-env": "~7.0.2",
-        "postcss": "^7",
+        "postcss": "^8",
         "react-app-rewired": "~2.1.6",
         "react-scripts": "^4.0.3",
         "rimraf": "^3.0.2",
